@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @masalaloe
+- 👋 Hi, My name is Rizki Haris
 - 👀 I’m interested in programming
 
 <!---
